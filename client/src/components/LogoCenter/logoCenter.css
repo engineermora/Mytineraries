@@ -1,0 +1,13 @@
+.containerLogo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.imageLogo {
+    width: 80%;
+    max-width: 600px;
+    height: 100%;
+}
