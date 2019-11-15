@@ -22,8 +22,8 @@ input {
 }
 
 button {
-    background: white;
-    color: white;
+    background: rgb(0, 0, 0);
+    color: rgb(3, 3, 3);
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
